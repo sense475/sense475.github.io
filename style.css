@@ -16,7 +16,7 @@ body {
     padding: 10px 5%;
     background: transparent;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     z-index: 100;
 }
