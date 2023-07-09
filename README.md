@@ -8,3 +8,4 @@
 * add more page to site 🏃🏻
 * add new page 🏃🏻
 * learn JavaScript & implement to this profile project 🏃🏻
+* using a framework to this 🏃🏻
